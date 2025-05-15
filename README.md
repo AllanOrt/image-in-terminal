@@ -1,5 +1,6 @@
 # Image in terminal
 A Python script enabling the user to view an image without a desktop environment.
+![](https://allanortegren.se/assets/images/bild_i_terminalen.png)
 
 # How to run
 1. Navigate to the downloaded folder and install all necessary packages by executing the command `pip install -r requirements.txt`.
